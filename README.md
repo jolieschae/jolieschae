@@ -2,7 +2,7 @@
 
 I'm an artist and budding programmer based in New York City, currently enrolled at the Flatiron School for software engineering. 
 
-🎨 Coding, just like my pencil or paintbrush, has been yet another medium for my creative expression. Interestingly enough, I've found my approach to the visualization and construction of imagery, interfaces, and worlds seems to manifest in the same way as my art! Through my work, I want to immerse users in new realms, spark their imagination, and evoke emotion.  I believe that art and technology have the power to inspire, provoke, and connect. My mission is to remain intentional and impactful with every stroke of the keyboard or brush. 
+🎨 Coding, just like my pencil or paintbrush, has been yet another medium for my creative expression. Interestingly enough, I've found my approach to the visualization and construction of imagery, interfaces, and worlds seems to manifest in the same way as my art! Through my work, I want to immerse users in new realms, spark their imagination, and evoke emotion.  I believe that both art and technology have the power to inspire, provoke, and connect, and profoundly so when done in combination. My mission is to remain intentional and impactful with every stroke of the keyboard or brush. 
 
 🧩 I've dabbled a bit in HTML and game modding from the time I was 12. I always thought you had to be strictly left-brained to succeed in programming, but since I began my courses, I've been gaining proficiency in languages such as JavaScript, React, Python, and HTML/CSS. 
 
