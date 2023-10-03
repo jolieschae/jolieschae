@@ -1,6 +1,6 @@
 ### Heyo, World! 👋 🌎
 
-I'm an artist and budding programmer based in New York City, currently enrolled at the Flatiron School for software engineering. 
+I'm an artist and budding programmer based in New York City. I recently graduated from the Flatiron School's Fullstack Software Engineering program. 
 
 🎨 Coding, just like my pencil or paintbrush, has been yet another medium for my creative expression. Interestingly enough, I've found my approach to visualizing and constructing imagery, interfaces, and worlds seems to manifest itself in the same way as my art! I see myself in the gaming industry, creating virtual reality experiences, or working on social media platforms. Through my work, I want to immerse users in new realms and spark their imagination. I believe that both art and technology have the power to inspire, provoke, and connect, and profoundly so when done in combination. My mission is to remain intentional and impactful with every stroke of the keyboard or brush. 
 
